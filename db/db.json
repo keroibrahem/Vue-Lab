@@ -1,0 +1,42 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "kero ibrahimة",
+      "city": "alex",
+      "age": 20,
+      "major": "open source",
+      "email": "kero.ibrahim@example.com"
+    },
+    {
+      "id": "2",
+      "name": "kerolos ibrahim",
+      "city": "cairo",
+      "age": 22,
+      "major": ".net",
+      "email": "kerolos.ibrahim@example.com"
+    },
+    {
+      "id": "3",
+      "name": "john doe",
+      "city": "aswan",
+      "age": 21,
+      "major": "ui/ux",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "city": "mansoura",
+      "age": 23,
+      "major": "java",
+      "email": "diana.prince@example.com"
+    },
+    {
+      "id": "eceb",
+      "name": "kero",
+      "age": 22,
+      "major": "cs"
+    }
+  ]
+}
